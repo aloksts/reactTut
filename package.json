@@ -1,0 +1,27 @@
+{
+  "name": "e2",
+  "version": "1.0.0",
+  "description": "igniting react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloksts/reacttut.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "tutorial"
+  ],
+  "author": "Alok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloksts/reacttut/issues"
+  },
+  "homepage": "https://github.com/aloksts/reacttut#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
